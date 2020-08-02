@@ -8,6 +8,7 @@ Green
 Red
 Yellow
 BLACK
+Indigo
 
 Unicorn
 
